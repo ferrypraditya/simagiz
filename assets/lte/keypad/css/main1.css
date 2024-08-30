@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#formkeypad{
+  width: 390px;
+  margin: 10px auto;
+  background: #fff;
+  padding: 5px;
+  text-align: center;
+  box-shadow: 0px 5px 5px -0px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  border:1px solid #ccc;
+}
+
+#l1{
+  padding: 0 5px;
+  width: 90%;
+  margin: auto;
+  outline: none;
+  font-size: 20px;
+  text-align: center;
+}
+#l2{
+  padding: 0 5px;
+  width: 90%;
+  margin: auto;
+  outline: none;
+  font-size: 20px;
+  text-align: center;
+}
+input:focus {
+  outline: none;
+}
+
+.pinButton {
+  border: none;
+  background: none;
+  font-size: 1em;
+  border-radius: 50%;
+  height: 35px;
+  font-weight: 550;
+  width: 35px;
+  color: transparent;
+  text-shadow: 0 0 0 rgb(102, 101, 101);
+  margin: 3px 10px;
+}
+
+.clear,
+.enter {
+  font-size: 1em !important;
+}
+
+.pinButton:hover {
+  box-shadow: #506ce8 0 0 1px 1px;
+}
+.pinButton:active {
+  background: #506ce8;
+  color: #fff;
+}
+.clear:hover {
+  box-shadow: #ff3c41 0 0 1px 1px;
+}
+.clear:active {
+  background: #ff3c41;
+  color: #fff;
+}
+.enter:hover {
+  box-shadow: #47cf73 0 0 1px 1px;
+}
+.enter:active {
+  background: #47cf73;
+  color: #fff;
+}

@@ -1,0 +1,6 @@
+id;line_no;line_name;source;plan;tact_time;ot_day_awal;ot_day_akhir;ot_night_awal;ot_night_akhir;eff_min;eff_max
+1;6;FRONT RH;Reguler;300;60;0;30;0;30;90;95
+2;7;FRONT LH;Reguler;300;60;0;30;0;30;90;95
+3;8;REAR1 LH;Reguler;300;60;0;30;0;30;90;95
+4;9;REAR1 RH;Reguler;300;60;0;30;0;30;90;95
+5;10;REAR 2 Bench;Reguler;300;60;0;30;0;30;90;95

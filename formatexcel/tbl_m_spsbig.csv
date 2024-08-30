@@ -1,0 +1,5 @@
+id;line_no;pos_picking;season;rack_no;picking_no;model;seat_part_no;suffix_master;child_part_no;child_part_name;qty_picking;status
+;5;BIG1_L6;1;1;1;D74A;71200-BYC00;T9;71812-BZ340-C0;COVER;1;Active
+;5;BIG1_L6;1;2;2;D74A;71200-BYC00;T9;72129-BZ110;COVER;2;Active
+;5;BIG1_L6;2;3;3;D74A;71200-BYC00;T9;73230-BZE40;COVER;1;Active
+;5;BIG1_L6;2;4;4;D74A;71200-BYC00;T9;72552-B1010;COVER;1;Active
